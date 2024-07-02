@@ -4,6 +4,9 @@
 
 This project is a simple, interactive music player built using HTML, CSS, and JavaScript. It allows users to play, pause, and navigate through a list of songs. The player also includes a progress bar that displays the current playback position and allows users to seek to different parts of the song. 
 
+* Demo:
+https://aarongulman.github.io/Music-Player/
+
 ## Features
 
 - Play and pause functionality
